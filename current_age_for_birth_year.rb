@@ -1,4 +1,3 @@
-def current_age_for_birth_year(age)
-  age = 2020 - (age)to.i
-  return age
+def current_age_for_birth_year
+  age_of_person = 2020-1984
 end
